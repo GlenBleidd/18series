@@ -6,10 +6,13 @@
           <option name="url" value="https://github.com/GlenBleidd/API-Exercise.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+<<<<<<< HEAD
         <UrlAndUserName>
           <option name="url" value="https://github.com/GlenBleidd/RESTPlus" />
           <option name="userName" value="" />
         </UrlAndUserName>
+=======
+>>>>>>> parent of a75f891... PC-2018.3.4 <SONY@SONY-PC Update vcs.xml
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\SONY\PycharmProjects" />
