@@ -1,0 +1,7 @@
+##Ignore Folders
+.idea/
+venv/
+
+##Ignore Files
+*.pyc
+*.xml
